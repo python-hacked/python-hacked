@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Satish Choudhary</h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
-<img align="center" alt="Coding" width="700" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/188684782/original/c487f063a943e3c732a496d0a7827d208dca9eb5.jpg">
+<img align="center" alt="Coding" hight="500" width="700" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/188684782/original/c487f063a943e3c732a496d0a7827d208dca9eb5.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-hacked&label=Profile%20views&color=0e75b6&style=flat" alt="python-hacked" /> </p>
 
