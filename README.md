@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Experienced Fullstack Developer with expertise in Python, Django, Fast API, Flask, and ReactJS. Proficient in designing, developing, and deploying web applicati
+Experienced Fullstack Developer with expertise in Python,ML,Dl,AI, Django, Fast API, Flask, and ReactJS. Proficient in designing, developing, and deploying web applicati
             
 
 ### Streetcred:
