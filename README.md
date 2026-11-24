@@ -1,8 +1,8 @@
-# Hi, I'm Python-Hacked 👋
+# Hi, I'm Satish Choudhary 👋
 
-### 🚀 Fullstack Developer | 🤖 AI/ML Engineer | 🎓 Educator
+### 🚀 Backend Engineer | 🤖 LLM Systems | 🧑‍💻 Python Developer
 
-I design, build, and deploy intelligent web applications, combining robust backend systems with modern frontends. I enjoy turning complex AI and ML ideas into practical, production-ready solutions, and sharing what I learn with others.
+I build backend systems and AI-powered tools, mostly for **Fintech** and **LegalTech**. Currently exploring **LLM systems**, RAG pipelines, and MCP servers.
 
 <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/python-hacked?type=without_score"/>
 
@@ -10,45 +10,33 @@ I design, build, and deploy intelligent web applications, combining robust backe
 
 ## 🧑‍💻 About Me
 
-- 💼 Fullstack Developer with hands-on experience in **Python, Django, FastAPI, Flask, and ReactJS**
-- 🧠 Working with **Machine Learning, Deep Learning, and AI** to build real-world solutions
-- ⚙️ Experienced in **MLOps** for deploying and maintaining models in production
-- 🌱 Currently focused on **AI-powered applications and scalable backend systems**
-- 📚 Passionate about **teaching and mentoring** developers at every level
+- 🔭 Working on production backend systems and LLM-based workflows
+- 🌱 Learning more about **LLMOps** and building reliable AI applications
+- 📦 Open-source author of [**dsn-sync**](https://pypi.org/project/dsn-sync/) on PyPI
+- 💬 Happy to talk about Python, FastAPI, AI automation, or backend architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend:** ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**AI / ML / MLOps:** ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge)
+**AI & LLM:** ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
-
-## 🔥 Featured Projects
-
-> Replace these with your best real projects. Add a short description, tech used, and a live link or GitHub repo.
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name 1](#) | What it does and the impact it has | Django, React, ML |
-| [Project Name 2](#) | What it does and the impact it has | FastAPI, Docker |
-| [Project Name 3](#) | What it does and the impact it has | Python, DL |
+**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📚 Teaching & Mentorship
+## 🏢 Domains I Work In
 
-I believe the best way to master something is to teach it. I share knowledge through:
-
-- 🎥 **Content / Tutorials:** [Your YouTube / Blog / Course link]
-- 🧑‍🏫 **Mentorship / Workshops:** [e.g., "Mentored 50+ students in Python & Web Dev"]
-- 💬 **Community:** [Discord / Meetup / Talks]
+- 💰 **Fintech:** Billing, accounting, bank reconciliation, financial reporting
+- ⚖️ **LegalTech:** Agreement management, digital signatures, AI document summarization
+- 🎓 **EdTech:** Content management and digital classroom platforms
+- 🛒 **Retail:** Point-of-sale and billing systems
 
 ---
 
@@ -62,7 +50,5 @@ I believe the best way to master something is to teach it. I share knowledge thr
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/python-hacked)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-> 💡 *"Code is like humor. When you have to explain it, it's bad. Let's build things that speak for themselves."*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishchoudhary394@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/dsn-sync/)
